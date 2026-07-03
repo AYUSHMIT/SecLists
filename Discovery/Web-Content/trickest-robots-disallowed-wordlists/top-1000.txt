@@ -363,7 +363,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 .ssi$
 .svg
 .svg
-.svghttp://diigo.com/robots.txt
+.svghttp://dinotim.com/robots.txt
 .swf$
 .swf$
 .sxg
@@ -914,7 +914,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /autocomplete?query=*
 /automatic-renewal-terms
 /autos/marketplace/product/
-/avg-review
 /b
 /b/*/*
 /b/*/*+
@@ -1654,7 +1653,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /lijstjes
 /likes
 /link
-/list
 /list/tips$
 /list/todos$
 /list/venuelikes$
@@ -1665,8 +1663,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /lists/followed$
 /lists/friends$
 /lite/article/*/image
-/live-stream
-/liveblog/2026/6/*?*update=
+/liveblog/*?*update=
 /load.js
 /loft-apartments_att
 /log
@@ -1685,7 +1682,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /lp
 /lp/
 /lp/video-streaming
-/ls=
 /magazine/
 /magazine/get_comment
 /magazines
@@ -1898,10 +1894,8 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /podcast/*/*?i=
 /podcast/ITEM_NAME
 /pogoda/
-/popular
 /popular-month
 /popular-month/*/channel
-/popular-today
 /popular-week
 /popular-week/*/channel
 /popular/*/channel
@@ -1922,7 +1916,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /privacy-policy-generator
 /privacy-policy-generator/*/load_aside_right_box
 /private-promo
-/probr-1~/project-type--*/$
 /product-refs
 /product/checkifitemisinwishlist
 /productaanbevelingen
@@ -1933,8 +1926,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /products/checkout
 /products/erp/s4hana-private-edition/trial.html
 /products/orders
-/professionals/*/*project-type-*-probr1-
-/professionals/*/*project-type-*-probr1-*_template_
 /profile
 /profile-about
 /profiles
@@ -1957,7 +1948,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /pvid$
 /qa-folder
 /qc
-/query
 /questions
 /r
 /ra
@@ -2144,7 +2134,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /search?searchNarrator=*&sort=
 /search?searchProvider=*&sort=
 /search?title=
-/searchDirectory
 /searchsuggest
 /season/200
 /secure/
@@ -2325,7 +2314,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /tag/*?pLink=
 /tag/*?ref_pageloadid=
 /tag/*page=
-/tag=
 /tagged
 /tags
 /tags$
@@ -2338,6 +2326,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /test-template
 /testhome
 /testing-products-
+/text
 /thank-you
 /the-hustle/author/*&
 /the-hustle/author/*?
@@ -2371,6 +2360,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /topics
 /topics/*?
 /topics_amp/*
+/topline
 /townhome_att
 /tpoint_articleshow/*
 /trackClickAsync.htm
@@ -2456,7 +2446,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /vaclk
 /vader/
 /vejr/
-/vendorActivityManager
 /version!libs
 /video
 /video-
@@ -2592,7 +2581,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?*&from=
 ?*&fromApp=
 ?*&fullscreen=
-?*&geocode=
 ?*&h=
 ?*&hashKey=
 ?*&hd=
@@ -2852,7 +2840,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?cat=*
 ?categoryId=
 ?cb=
-?cbp
 ?cc_load_policy=
 ?ceid=
 ?channel=
@@ -2993,7 +2980,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?gbraid=
 ?gclid=
 ?gclsrc
-?geocode=
 ?getlink=*
 ?gm
 ?goal=
@@ -3091,7 +3077,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?noredirect=true&config=standalone
 ?np=*
 ?np=y
-?null
 ?null$
 ?nw=
 ?o=
@@ -3102,7 +3087,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?onboard=
 ?op=
 ?optout=
-?oq=
 ?order
 ?order=
 ?orderid
@@ -3431,7 +3415,6 @@ Ajax.htm$
 AjaxSearchNavigationView
 AllReviews
 Allons_voter
-Allow:
 AmazonCloudFront/2008-06-30
 AmazonCloudFront/2009-04-02
 AmazonCloudFront/2009-09-09
@@ -4111,7 +4094,6 @@ OfferAnnouncementManagement
 OpenGraphLander
 OpenZoomLayer
 OpeningHours
-OptOutEmail
 OrderItemDisplay
 OrderItemDisplay=
 OtherDisplayView
@@ -4488,7 +4470,6 @@ TestingTravelMaps
 Themes/Client/app/img/favicons/manifest.json
 ThirdPartyRedirect
 ThorHammer
-TodayOJ
 TodaysLowestFaresAjax
 Tr/SocialMediaActivity/LogJSWidgetLinkClick
 Tracker?data=*
@@ -4816,7 +4797,6 @@ _static
 _td_api
 _tdhl_api
 _tdpp_api
-_template
 _themes
 _upload-widget
 _user/api
@@ -4978,7 +4958,6 @@ account-login
 account-prefs-change
 account-settings
 account-setup
-account-verification
 account.json
 account/
 account/accomplishments
@@ -5342,7 +5321,6 @@ ajax/rentals/ClaimedRentalProperties.htm?actionType=claims
 ajax/seoRequest
 ajax/skill-bundle.php
 ajax/user
-ajax?
 ajax_collection_share.php
 ajax_comments
 ajaxcart
@@ -5503,7 +5481,7 @@ api/fetch/mc-anon
 api/getrecjobs
 api/graphql
 api/html
-api/http://creatoracademy.youtube.com/robots.txt
+api/http://creativecommons.org/robots.txt
 api/internal/*/location
 api/jobPostings/jobs
 api/maps/
@@ -5967,7 +5945,6 @@ attach/
 attachments
 attachments/*/download_file
 au
-au$
 au*/listing/*/favoriters
 au*/people/*/circle
 au*/people/*/favorites
@@ -6129,6 +6106,7 @@ b/*/rental-manager/resources
 b/*?*&
 b/*?*_mwBanner
 b/*?*_nkw
+b/*?*mkcid=32
 b/*?*|
 b/*?iid=*&*&chn=ps
 b/*?iid=*&chn=ps
@@ -6734,6 +6712,7 @@ blog/bt-case-study/$
 blog/building-a-design-system-that-breathes-with-headspace/$
 blog/building-a-digital-first-future-for-every-student/$
 blog/building-a-professional-design-tool-on-the-web/$
+blog/building-accessibility-into-a-canvas-based-product/$
 blog/building-an-open-and-inclusive-design-process/$
 blog/building-better/$
 blog/building-figmas-code-layers/$
@@ -6881,6 +6860,7 @@ blog/figma-for-government-fedramp-certified/$
 blog/figma-for-students-and-educators/$
 blog/figma-india-office/$
 blog/figma-ipo-founder-letter/$
+blog/figma-is-now-iso-42001-certified/$
 blog/figma-korean-localization/$
 blog/figma-lambda-school/$
 blog/figma-make-for-gov/$
@@ -6955,6 +6935,7 @@ blog/gemini-3-pro-is-now-available-in-figma-make/$
 blog/github-case-study/$
 blog/give-ideas-more-space-with-jambot/$
 blog/googles-ar-design-guidelines-suffice-while-apples-fall-short/$
+blog/got-skills-make-the-figma-agent-a-better-collaborator/$
 blog/grid-systems-for-screen-design/$
 blog/group
 blog/gusto/$
@@ -6991,6 +6972,7 @@ blog/how-one-pivotal-designer-escaped-the-export-upload-abyss/$
 blog/how-pinterests-design-systems-team-measures-adoption/$
 blog/how-razorpay-sharpened-developer-workflows/$
 blog/how-repsol-rethinks-the-way-the-world-interacts-with-energy/$
+blog/how-season-5-merch-came-to-life/$
 blog/how-shopify-facilitates-collaboration-in-figma/$
 blog/how-students-who-design-set-up-figma-in-their-online-classroom/$
 blog/how-teams-tap-into-the-power-of-design-with-figma-slides/$
@@ -7279,6 +7261,7 @@ blog/software-is-culture/tap-to-like/$
 blog/software-is-culture/voice-interaction/$
 blog/speeding-up-build-times/$
 blog/speeding-up-file-load-times-one-page-at-a-time/$
+blog/start-anywhere/$
 blog/state-of-design-systems-2018/$
 blog/state-of-the-designer-2026/$
 blog/state-of-the-designer-report-23/$
@@ -7602,7 +7585,6 @@ browse/more_page
 browse/reviews/recent
 browseNode=*&node=
 browseNode=*&page=
-browseReviews
 browse_
 browser/tutorials
 browsers
@@ -7615,7 +7597,6 @@ build-a-trip-wire-alarm-from-parts-you-have-in-the-hous-1787228433
 build-ship/$
 build-your-own-sidekick-inspired-mobile-raspberry-pi-co-1793894398
 build.xml
-builders
 bulk-up-soup-with-leftover-egg-whites-1846530876
 bundle-next
 burner-generates-disposable-phone-numbers-for-perfectly-5933208
@@ -7668,7 +7649,6 @@ business/xmlrpc.php
 businessinfo
 businesswars
 button
-buttonWidget
 buy
 buy/select-product
 buy_buttons
@@ -8185,7 +8165,7 @@ cdn-cgi
 cdn-cgi/
 cdn-cgi/bm/cv
 cdn-cgi/challenge-platform
-cdn-cgi/http://medium.com/robots.txt
+cdn-cgi/http://media.ccc.de/robots.txt
 cdn-cgi/images/trace
 cdn-cgi/l/email-protection
 cdn-cgi/rum
@@ -8193,7 +8173,7 @@ cdn-cgi/scripts
 cdn-cgi/speculation
 cdn-cgi/styles
 cdn-cgi/zaraz
-cdn-cgi/zaraz/http://de.wikipedia.org/robots.txt
+cdn-cgi/zaraz/http://deezer.com/robots.txt
 cdn-proxy/pim
 cdn-proxy/px
 cdn.jwplayer.com/previews
@@ -8222,7 +8202,7 @@ cgi-bin/koha/
 cgi-bin/loginpage
 cgi-bin/search.fpl
 cgi-bin/wx
-cgi-binhttp://ietf.org/robots.txt
+cgi-binhttp://ifttt.com/robots.txt
 cgi-local
 cgi-mad/
 cgi-pct/
@@ -8296,7 +8276,6 @@ ch_it/Download
 challenge
 challenges
 challenges$
-change-displayed-metadata
 change-email
 change-password
 change-shipping
@@ -9715,7 +9694,6 @@ dcjs
 ddl2*
 ddp
 de
-de$
 de*/listing/*/favoriters
 de*/people/*/circle
 de*/people/*/favorites
@@ -9737,6 +9715,7 @@ de-de/blog/$
 de-de/blog/10-lessons-from-an-engineering-manager/$
 de-de/blog/2025-shifting-roles-report/$
 de-de/blog/23-prototyping-resources-to-bookmark-right-now/$
+de-de/blog/4-new-ways-to-go-from-idea-to-product-with-ai-tools/$
 de-de/blog/5-shifts-redefining-design-systems-in-the-ai-era/$
 de-de/blog/5-things-designers-need-to-know-for-a-smooth-handoff/$
 de-de/blog/5-tips-for-using-figmas-dev-mode-mcp-server/$
@@ -9745,6 +9724,7 @@ de-de/blog/8-tips-for-designers-building-branded-templates-in-figma-buzz/$
 de-de/blog/8-ways-to-build-with-figma-make/$
 de-de/blog/a-first-look-at-config-2025/$
 de-de/blog/accessibility/$
+de-de/blog/agent-custom-tools-context-skills/$
 de-de/blog/ai-design-figma-users-tell-us-whats-coming-next/$
 de-de/blog/ai-the-next-chapter-in-design/$
 de-de/blog/ai/$
@@ -9754,6 +9734,7 @@ de-de/blog/annotations-in-dev-mode/$
 de-de/blog/behind-our-redesign-ui3/$
 de-de/blog/behind-the-feature-the-multiple-lives-of-multi-edit/$
 de-de/blog/behind-the-scenes/$
+de-de/blog/bill-atkinsons-10-rules-for-making-interfaces-more-human/$
 de-de/blog/billing-experience-update-2025/$
 de-de/blog/billing-freelancers-agencies/$
 de-de/blog/brainstorming/$
@@ -9764,12 +9745,15 @@ de-de/blog/building-a-digital-first-future-for-every-student/$
 de-de/blog/building-figmas-code-layers/$
 de-de/blog/business-design-education/$
 de-de/blog/case-study/$
+de-de/blog/code-on-the-figma-canvas/$
 de-de/blog/collaboration/$
 de-de/blog/config-2023-recap/$
 de-de/blog/config-2024-branding/$
 de-de/blog/config-2024-recap/$
 de-de/blog/config-2025-recap/$
+de-de/blog/config-2026-recap/$
 de-de/blog/config/$
+de-de/blog/connecting-figma-and-weave/$
 de-de/blog/david-hoang-on-how-ai-will-influence-creative-tools/$
 de-de/blog/design-context-everywhere-you-build/$
 de-de/blog/design-leader-interview-mit-oliver-pitsch/$
@@ -9796,6 +9780,7 @@ de-de/blog/figma-buzz/$
 de-de/blog/figma-design/$
 de-de/blog/figma-draw-scatter-brushes/$
 de-de/blog/figma-draw/$
+de-de/blog/figma-make-now-on-your-local-code/$
 de-de/blog/figma-make/$
 de-de/blog/figma-mcp/$
 de-de/blog/figma-on-figma-evolving-our-visual-language/$
@@ -9811,6 +9796,7 @@ de-de/blog/how-linear-made-the-most-of-a-ddos/$
 de-de/blog/how-razorpay-sharpened-developer-workflows/$
 de-de/blog/how-teams-tap-into-the-power-of-design-with-figma-slides/$
 de-de/blog/how-to-build-ground-breaking-products-a-managers-guide/$
+de-de/blog/how-to-design-agentic-tools-for-work/$
 de-de/blog/how-to-get-the-most-out-of-teams/$
 de-de/blog/how-to-streamline-your-design-system-workflow-in-figma/$
 de-de/blog/how-we-built-ai-search-in-figma/$
@@ -9827,11 +9813,13 @@ de-de/blog/introducing-figma-buzz/$
 de-de/blog/introducing-figma-draw/$
 de-de/blog/introducing-figma-make/$
 de-de/blog/introducing-figma-mcp-server/$
+de-de/blog/introducing-figma-motion/$
 de-de/blog/introducing-figma-sites/$
 de-de/blog/introducing-screenreader-and-accessibility-features/$
 de-de/blog/introducing-three-new-tools-for-precise-image-editing-in-figma/$
 de-de/blog/is-the-app-layer-where-ai-proves-its-value/$
 de-de/blog/its-time-we-expand-our-definition-of-design/$
+de-de/blog/karri-saarinens-10-rules-for-crafting-products-that-stand-out/$
 de-de/blog/leadership/$
 de-de/blog/little-big-updates-behind-the-scenes/$
 de-de/blog/maker-stories/$
@@ -9895,6 +9883,7 @@ de-de/blog/why-roles-are-not-rules/$
 de-de/blog/why-you-should-care-about-design-context/$
 de-de/blog/working-well/$
 de-de/blog/writing/$
+de-de/blog/you-never-stop-cultivating-taste/$
 de-de/blog/zusammenarbeit-von-remote-work-vodafone-contentsquare/$
 de-de/build-ship/$
 de-de/buzz/$
@@ -10258,6 +10247,7 @@ de-de/resource-library/ideen-fuer-das-layout-einer-website/$
 de-de/resource-library/instagram-photo-size/$
 de-de/resource-library/ki-app-builder/$
 de-de/resource-library/ki-coding-tools/$
+de-de/resource-library/ki-website-beispiele/$
 de-de/resource-library/linkedin-size-guide/$
 de-de/resource-library/mindmap-anleitung/$
 de-de/resource-library/mindmap-beispiele/$
@@ -10708,7 +10698,6 @@ designdb/*?
 designdb/jsp
 designer/edit
 designer_pricing.php
-designers
 designers/$
 designers/events/fullscreen-page
 designtech
@@ -10876,9 +10865,6 @@ discussion/your-comments
 discussion/your-profile
 discussions
 discussions/*
-discussions/*/p/_template_
-discussions/*sort=
-discussions/*view=
 discussions/2021/09/13/cookie-policy
 discussions/2021/09/13/cookie-policy-eea
 disneyid
@@ -10887,7 +10873,6 @@ display-your-entire-download-history-on-a-mac-with-a-te-5976042
 distributions
 dj-signup
 dk
-dk$
 dk-en*/listing/*/favoriters
 dk-en*/people/*/circle
 dk-en*/people/*/favorites
@@ -11001,7 +10986,6 @@ docs/search_results.html
 docs/socialmarkup
 doctor-strange
 document
-document-format.html
 document/comments
 document/create
 document/delete
@@ -11074,7 +11058,6 @@ download-evernote
 download-file
 download-keys
 download-limit
-download-notice
 download-pictures-video-from-threads-iphone-1850895658
 download-the-sims-4-for-free-right-now-1834979262
 download/*-thankyou$
@@ -11218,7 +11201,6 @@ edit-subscriptions
 edit/$
 edit/review
 edit/success
-editProfile
 editing
 editing/EditHomeFacts.htm
 editionssi
@@ -11291,7 +11273,6 @@ element/?
 element/commun/afficher
 element_properties.
 elements
-eli-search
 eliminar-busqueda
 eliminar-favoritos
 elite?
@@ -12027,6 +12008,14 @@ en/help/142642-old-vs-new-pricing
 en/library?
 en/microsoft-365
 en/microsoft-365/
+en/microsoft-365/free-office-online-for-the-web
+en/microsoft-365/onenote/digital-note-taking-app
+en/microsoft-365/outlook/web-email-login-for-outlook
+en/microsoft-365/planner/microsoft-planner
+en/microsoft-365/products-apps-services
+en/microsoft-365/publisher
+en/microsoft-365/word
+en/microsoft-365/yammer/yammer-overview
 en/microsoft-teams
 en/microsoft-teams/
 en/microsoft-viva
@@ -12102,6 +12091,7 @@ enterprise-store
 enterprise/$
 enterprise/plan/$
 enterprise/seo
+entertainment
 entertainment/are-bill-burr-and-billy-corgan-brothers
 entertainment/best-2000s-movies-to-watch-with-your-kids
 entertainment/best-artsy-movies-for-kids
@@ -12832,14 +12822,12 @@ error/403
 error/404
 error/500
 error/PageNotFound.htm
-error/authentication-required.html
 error404.aspx
 error_204
 errorpages
 errors
 errors/
 es
-es$
 es*/listing/*/favoriters
 es*/people/*/circle
 es*/people/*/favorites
@@ -12941,6 +12929,7 @@ es-es/blog/5-tips-for-using-figmas-dev-mode-mcp-server/$
 es-es/blog/7-moments-that-shaped-figma/$
 es-es/blog/8-ways-to-build-with-figma-make/$
 es-es/blog/accessibility/$
+es-es/blog/agent-custom-tools-context-skills/$
 es-es/blog/ai/$
 es-es/blog/andrew-boz-bosworths-10-rules-for-navigating-the-next-design-paradigm/$
 es-es/blog/behind-the-scenes/$
@@ -12952,8 +12941,11 @@ es-es/blog/building-figmas-code-layers/$
 es-es/blog/business-design-education/$
 es-es/blog/career-and-education/$
 es-es/blog/case-study/$
+es-es/blog/code-on-the-figma-canvas/$
 es-es/blog/collaboration/$
+es-es/blog/config-2026-recap/$
 es-es/blog/config/$
+es-es/blog/connecting-figma-and-weave/$
 es-es/blog/creativity-meets-precision-with-gemini-3-pro-with-nano-banana/$
 es-es/blog/culture/$
 es-es/blog/design-context-everywhere-you-build/$
@@ -12980,6 +12972,7 @@ es-es/blog/figma-weave/$
 es-es/blog/figmas-data-pipeline-upgrade/$
 es-es/blog/gemini-3-pro-is-now-available-in-figma-make/$
 es-es/blog/hiring/$
+es-es/blog/how-to-design-agentic-tools-for-work/$
 es-es/blog/how-to-harness-skills-that-ai-cant-automate/$
 es-es/blog/in-good-company-agencies-freelancers/$
 es-es/blog/in-good-company-retailers/$
@@ -12987,11 +12980,13 @@ es-es/blog/increased-ipo-price-range/$
 es-es/blog/infrastructure/$
 es-es/blog/inside-figma/$
 es-es/blog/insights/$
+es-es/blog/introducing-figma-motion/$
 es-es/blog/introducing-keyboard-accessibility-features/$
 es-es/blog/introducing-screenreader-and-accessibility-features/$
 es-es/blog/introducing-three-new-tools-for-precise-image-editing-in-figma/$
 es-es/blog/ipo-pricing/$
 es-es/blog/is-the-app-layer-where-ai-proves-its-value/$
+es-es/blog/karri-saarinens-10-rules-for-crafting-products-that-stand-out/$
 es-es/blog/leadership/$
 es-es/blog/localization/$
 es-es/blog/maker-stories/$
@@ -13342,6 +13337,7 @@ es-es/resource-library/ejemplos-de-folletos/$
 es-es/resource-library/ejemplos-de-mapas-mentales/$
 es-es/resource-library/ejemplos-de-presentaciones/$
 es-es/resource-library/ejemplos-sitios-portfolio/$
+es-es/resource-library/ejemplos-sitios-web-ia/$
 es-es/resource-library/emparejamientos-de-fuentes/$
 es-es/resource-library/facebook-size-guide/$
 es-es/resource-library/flujo-de-usuarios/$
@@ -13463,6 +13459,8 @@ es-la/blog/$
 es-la/blog/2025-shifting-roles-report/$
 es-la/blog/4-ways-for-design-teams-to-chart-new-territory-with-figma-make/$
 es-la/blog/8-ways-to-build-with-figma-make/$
+es-la/blog/andrew-boz-bosworths-10-rules-for-navigating-the-next-design-paradigm/$
+es-la/blog/bill-atkinsons-10-rules-for-making-interfaces-more-human/$
 es-la/blog/bringing-figma-make-to-the-canvas/$
 es-la/blog/building-figmas-code-layers/$
 es-la/blog/design-context-everywhere-you-build/$
@@ -13472,6 +13470,7 @@ es-la/blog/engineering/$
 es-la/blog/everything/$
 es-la/blog/figma-make/$
 es-la/blog/figma-mcp/$
+es-la/blog/how-to-design-agentic-tools-for-work/$
 es-la/blog/how-to-harness-skills-that-ai-cant-automate/$
 es-la/blog/increased-ipo-price-range/$
 es-la/blog/inside-figma/$
@@ -13480,10 +13479,12 @@ es-la/blog/introducing-screenreader-and-accessibility-features/$
 es-la/blog/introducing-three-new-tools-for-precise-image-editing-in-figma/$
 es-la/blog/ipo-pricing/$
 es-la/blog/is-the-app-layer-where-ai-proves-its-value/$
+es-la/blog/karri-saarinens-10-rules-for-crafting-products-that-stand-out/$
 es-la/blog/maker-stories/$
 es-la/blog/one-founders-mission-to-save-local-farms-with-figma-make/$
 es-la/blog/product-updates/$
 es-la/blog/slides-buzz-figma-app-in-chatgpt/$
+es-la/blog/the-anatomy-of-an-activation-figma-commons/$
 es-la/blog/turn-your-chatgpt-brainstorms-into-figjam-diagrams/$
 es-la/blog/why-you-should-care-about-design-context/$
 es-la/blog/working-well/$
@@ -13804,6 +13805,7 @@ es-la/resource-library/ejemplos-de-folletos/$
 es-la/resource-library/ejemplos-de-mapas-mentales/$
 es-la/resource-library/ejemplos-de-presentaciones/$
 es-la/resource-library/ejemplos-sitios-portafolio/$
+es-la/resource-library/ejemplos-sitios-web-de-ia/$
 es-la/resource-library/facebook-size-guide/$
 es-la/resource-library/flujo-de-usuarios/$
 es-la/resource-library/fuentes-minimalistas/$
@@ -14266,8 +14268,6 @@ estadisticas/recientes/p
 estadisticas/recomendaciones/?p=
 estadisticas/report-content
 estimate-the-right-condom-size-for-you-with-a-toilet-pa-1607455001
-estimates
-estimates/*/client
 et-EE/$
 et-ee/
 et/
@@ -14387,7 +14387,6 @@ experiences/*?*modal
 experiences/*?*scheduled_id
 experiment
 experiments.xml
-expert-search-form
 experts-arena
 experts/search
 experts/search?
@@ -14398,7 +14397,6 @@ explore/*/lightbox
 explore/search
 explore?
 export
-export-documents
 export/
 export/sites/intranet/
 export/sites/upov/shared/
@@ -14464,8 +14462,6 @@ facebook_connect
 faceniff-is-the-firesheep-for-android-hijacks-facebook-5807740
 factory
 fake-your-birthday-when-creating-new-online-accounts-1844494922
-fallback
-false/select-store-cookies.html
 familie
 family-going-on-a-trip-you-can-walk-them-all-the-way-t-5809860
 family-validation
@@ -14483,10 +14479,6 @@ fashion/lookbook/38917
 fashion/search/models
 fast-five
 fast-furious
-fastajax
-fastajax/order
-fastajax/order/tax
-fastajax/order/tax/validatevat
 fastanswers
 fatalerror.html
 faves-i_love_u_get_away_from_me
@@ -14499,7 +14491,6 @@ fb
 fb.html
 fb_comment_id=
 fbclid=
-fbhome
 fbl/faq.html
 fbl/home.html
 fbl/howitworks.html
@@ -14639,6 +14630,7 @@ fi/kb
 fi/login-messages
 fi/search/
 fi/search/default.mi
+fi/web
 fiats
 ficapp
 ficmanagers
@@ -14688,7 +14680,7 @@ files/resources
 fileview
 filing
 filing/free-file-fillable-forms/free-file-fillable-forms-support
-filing/free-file-fillable-forms/free-file-fillable-forms-support-2http://iso.org/robots.txt
+filing/free-file-fillable-forms/free-file-fillable-forms-support-2http://issuu.com/robots.txt
 filter.searchKeyword=
 filter/
 filter/tips
@@ -14736,7 +14728,6 @@ five-umami-bombs-you-should-always-have-stocked-in-your-1794269578
 five-ways-to-fix-a-cracked-window-ranked-from-the-wors-1850695935
 five-years-of-figma/$
 fix-a-credit-card-that-wont-swipe-with-a-piece-of-tape-5871616
-fix-emails
 fix-it
 fix-sliding-doors-that-wont-close-with-a-couple-magnets-1642225618
 fix-static-and-popping-on-stereo-volume-knobs-342728
@@ -16607,7 +16598,6 @@ fp_ms
 fp_ms/_rcv/remote?
 fpjs
 fr
-fr$
 fr*/listing/*/favoriters
 fr*/people/*/circle
 fr*/people/*/favorites
@@ -16675,6 +16665,7 @@ fr-fr/blog/$
 fr-fr/blog/10-lessons-from-an-engineering-manager/$
 fr-fr/blog/2025-shifting-roles-report/$
 fr-fr/blog/23-prototyping-resources-to-bookmark-right-now/$
+fr-fr/blog/4-new-ways-to-go-from-idea-to-product-with-ai-tools/$
 fr-fr/blog/4-ways-for-design-teams-to-chart-new-territory-with-figma-make/$
 fr-fr/blog/5-shifts-redefining-design-systems-in-the-ai-era/$
 fr-fr/blog/5-things-designers-need-to-know-for-a-smooth-handoff/$
@@ -16685,6 +16676,7 @@ fr-fr/blog/8-tips-for-designers-building-branded-templates-in-figma-buzz/$
 fr-fr/blog/8-ways-to-build-with-figma-make/$
 fr-fr/blog/a-first-look-at-config-2025/$
 fr-fr/blog/accessibility/$
+fr-fr/blog/agent-custom-tools-context-skills/$
 fr-fr/blog/ai-design-figma-users-tell-us-whats-coming-next/$
 fr-fr/blog/ai-the-next-chapter-in-design/$
 fr-fr/blog/ai/$
@@ -16704,12 +16696,15 @@ fr-fr/blog/building-a-digital-first-future-for-every-student/$
 fr-fr/blog/building-figmas-code-layers/$
 fr-fr/blog/business-design-education/$
 fr-fr/blog/case-study/$
+fr-fr/blog/code-on-the-figma-canvas/$
 fr-fr/blog/collaboration/$
 fr-fr/blog/config-2023-recap/$
 fr-fr/blog/config-2024-branding/$
 fr-fr/blog/config-2024-recap/$
 fr-fr/blog/config-2025-recap/$
+fr-fr/blog/config-2026-recap/$
 fr-fr/blog/config/$
+fr-fr/blog/connecting-figma-and-weave/$
 fr-fr/blog/creativity-meets-precision-with-gemini-3-pro-with-nano-banana/$
 fr-fr/blog/david-hoang-on-how-ai-will-influence-creative-tools/$
 fr-fr/blog/design-et-tech-pour-construire-produits-numeriques-durables/$
@@ -16740,6 +16735,7 @@ fr-fr/blog/figma-buzz/$
 fr-fr/blog/figma-design/$
 fr-fr/blog/figma-draw-scatter-brushes/$
 fr-fr/blog/figma-draw/$
+fr-fr/blog/figma-make-now-on-your-local-code/$
 fr-fr/blog/figma-make/$
 fr-fr/blog/figma-mcp/$
 fr-fr/blog/figma-on-figma-evolving-our-visual-language/$
@@ -16756,6 +16752,7 @@ fr-fr/blog/how-linear-made-the-most-of-a-ddos/$
 fr-fr/blog/how-razorpay-sharpened-developer-workflows/$
 fr-fr/blog/how-teams-tap-into-the-power-of-design-with-figma-slides/$
 fr-fr/blog/how-to-build-ground-breaking-products-a-managers-guide/$
+fr-fr/blog/how-to-design-agentic-tools-for-work/$
 fr-fr/blog/how-to-get-the-most-out-of-teams/$
 fr-fr/blog/how-to-harness-skills-that-ai-cant-automate/$
 fr-fr/blog/how-to-streamline-your-design-system-workflow-in-figma/$
@@ -16774,12 +16771,14 @@ fr-fr/blog/introducing-figma-buzz/$
 fr-fr/blog/introducing-figma-draw/$
 fr-fr/blog/introducing-figma-make/$
 fr-fr/blog/introducing-figma-mcp-server/$
+fr-fr/blog/introducing-figma-motion/$
 fr-fr/blog/introducing-figma-sites/$
 fr-fr/blog/introducing-keyboard-accessibility-features/$
 fr-fr/blog/introducing-screenreader-and-accessibility-features/$
 fr-fr/blog/introducing-three-new-tools-for-precise-image-editing-in-figma/$
 fr-fr/blog/is-the-app-layer-where-ai-proves-its-value/$
 fr-fr/blog/its-time-we-expand-our-definition-of-design/$
+fr-fr/blog/karri-saarinens-10-rules-for-crafting-products-that-stand-out/$
 fr-fr/blog/leadership/$
 fr-fr/blog/little-big-updates-behind-the-scenes/$
 fr-fr/blog/made-in-figma-the-national-park-service-goes-from-paper-to-pixels/$
@@ -16850,6 +16849,7 @@ fr-fr/blog/why-development-leaders-are-investing-in-design/$
 fr-fr/blog/why-roles-are-not-rules/$
 fr-fr/blog/working-well/$
 fr-fr/blog/writing/$
+fr-fr/blog/you-never-stop-cultivating-taste/$
 fr-fr/build-ship/$
 fr-fr/buzz/$
 fr-fr/case-study/dropbox/$
@@ -17199,6 +17199,7 @@ fr-fr/resource-library/exemples-de-brochures/$
 fr-fr/resource-library/exemples-de-cartes-mentales/$
 fr-fr/resource-library/exemples-de-pitch-deck/$
 fr-fr/resource-library/exemples-sites-portfolio/$
+fr-fr/resource-library/exemples-sites-web-ia/$
 fr-fr/resource-library/facebook-size-guide/$
 fr-fr/resource-library/figjam-tools-for-the-classroom/$
 fr-fr/resource-library/flux-utilisateur/$
@@ -17692,9 +17693,7 @@ frame_rate=
 france/formation/centres/planning.asp?
 france/ie/default.asp?
 france/mnp_utility.mspx?
-franchise/
 free
-free-account-onboarding
 free-tools/plagiarism-checker/?q=
 free-trial
 free/cloud-computing-free-tier/
@@ -17837,7 +17836,6 @@ get-fluffier-scrambles-by-adding-cream-of-tartar-1842128443
 get-free-address-labels-by-filling-out-this-humane-soci-1679416459
 get-galleryfragment
 get-giftmodule
-get-hired
 get-menu-header
 get-rid-of-household-odors-with-an-onion-1745191177
 get-rid-of-static-cling-in-a-pinch-with-hand-lotion-or-1697593178
@@ -17848,7 +17846,6 @@ get-to-know-your-edible-berries-with-a-simple-mnemonic-5334055
 get-yourself-some-caldo-de-tomate-immediately-1844943389
 getAdSlotContentsAjax.htm
 getCallUsInfoData
-getMoreSimilarGalleriesAjax
 getMostReadArticles
 getRelatedArticles
 get_midroll_info
@@ -18136,7 +18133,6 @@ groups/dir?*q=
 groups/search
 groups/user
 groups?id=
-grow
 growing-up-chrisley
 growth-ime
 growth-tools-actions
@@ -18167,7 +18163,6 @@ gum
 gundem
 gview
 gwc
-gws$
 gx/en/audit-services-risk-assurance-services/assets/PwCs_journals_ai.pdf
 gx/en/forensics/gecs-2020/pdf/global-economic-crime-and-fraud-survey-2020.pdf
 gx/en/zz-test
@@ -18808,7 +18803,6 @@ hotels/rpc
 hotels/search
 hotfix/
 houseads
-houzz-historyzz
 how-a-cannabis-expert-sneaks-weed-past-the-tsa-1794340594
 how-and-why-to-video-your-lifts-at-the-gym
 how-baking-soda-of-all-things-can-help-your-workout-1850345925
@@ -19201,19 +19195,17 @@ hsb/firefox/collections/4757633/$
 hsb/firefox/collections/mozilla
 hsb/firefox/collections/mozilla/$
 hsb/firefox/search
-hsc
 ht/node/
 htdocs
 html
 html-to-img
 html/story
 html5
-http
 http2_data
-http://3my78.blogspot.com/robots.txt
-http://akparti.org.tr/robots.txt
+http://15721.courses.cs.cmu.edu/robots.txt
+http://aka.ms/robots.txt
 http://aliexpress.com/robots.txt
-http://alltop.com/robots.txt
+http://amazon.co.jp/robots.txt
 http://amazon.co.uk/robots.txt
 http://amazon.com/robots.txt
 http://amazon.de/robots.txt
@@ -19222,7 +19214,7 @@ http://amazon.fr/robots.txt
 http://amazon.in/robots.txt
 http://amazon.it/robots.txt
 http://ameblo.jp/robots.txt
-http://apple.com/robots.txt
+http://apps.apple.com/robots.txt
 http://behance.net/robots.txt
 http://economist.com/robots.txt
 http://en.m.wikipedia.org/robots.txt
@@ -19234,21 +19226,21 @@ http://irishtimes.com/robots.txt
 http://kickstarter.com/robots.txt
 http://nationalgeographic.com/robots.txt
 http://nhs.uk/robots.txt
-http://parliament.uk/robots.txt
-http://pixiv.net/robots.txt
-http://sephora.com/robots.txt
+http://patnauniversity.ac.in/robots.txt
+http://pixlr.com/robots.txt
+http://seekingalpha.com/robots.txt
 http://siteground.com/robots.txt
-http://snapchat.com/robots.txt
+http://smithsonianmag.com/robots.txt
 http://static.wixstatic.com/robots.txt
-http://ted.com/robots.txt
-http://thelancet.com/robots.txt
+http://techradar.com/robots.txt
+http://thenextweb.com/robots.txt
 http://threads.net/robots.txt
-http://tools.google.com/robots.txt
+http://tracks.arte.tv/robots.txt
 http://upload.wikimedia.org/robots.txt
-http://validator.w3.org/robots.txt
+http://use.fontawesome.com/robots.txt
 http://vox.com/robots.txt
-http://w3techs.com/robots.txt
-http://weforum.org/robots.txt
+http://w3c.github.io/robots.txt
+http://weebly.com/robots.txt
 http://wellbeing.google/robots.txt
 http://wish.com/robots.txt
 https://player.cnevids.com
@@ -19295,9 +19287,6 @@ hz/contact-us/ajax/initiate-trusted-contact
 hz/help/contact/*/message/$
 hz/leaderboard/hall-of-fame
 hz/leaderboard/top-reviewers
-hznb
-hznb/projects
-hznb/projects/*?from=
 i
 i-am-begging-you-to-make-something-besides-cacio-e-pepe-1843268645
 i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566
@@ -19452,14 +19441,12 @@ id_id/membuat
 idea-ads-tool
 idea-pin-builder
 idea-pin-invite
-ideabooks
 identity
 identity/accountsettingsactivityweb
 identity/accountsettingssyaf
 idn/ai/generator-ikon/alat
 idx
 ie
-ie$
 ie*/listing/*/favoriters
 ie*/people/*/circle
 ie*/people/*/favorites
@@ -19616,7 +19603,6 @@ image-cn-sf-sitemap.xml.gz
 image-cn-spd-sitemap.xml.gz
 image-zoom
 image/detailprint
-imageClipperUpload
 images
 images$
 images-apphost
@@ -19678,7 +19664,6 @@ impressum
 imprint
 improvise-butterfly-stitches-using-medical-tape-5926071
 in
-in$
 in-en*/listing/*/favoriters
 in-en*/people/*/circle
 in-en*/people/*/favorites
@@ -20101,7 +20086,6 @@ isapi/
 isbn
 isdh/drafts_local
 it
-it$
 it*/listing/*/favoriters
 it*/people/*/circle
 it*/people/*/favorites
@@ -20511,7 +20495,6 @@ itvs/mt3
 iview
 iznanka
 j
-j/pro-site
 ja
 ja-JP/$
 ja-jp*/lp
@@ -20526,6 +20509,7 @@ ja-jp/blog/$
 ja-jp/blog/10-lessons-from-an-engineering-manager/$
 ja-jp/blog/2025-shifting-roles-report/$
 ja-jp/blog/23-prototyping-resources-to-bookmark-right-now/$
+ja-jp/blog/4-new-ways-to-go-from-idea-to-product-with-ai-tools/$
 ja-jp/blog/4-ways-for-design-teams-to-chart-new-territory-with-figma-make/$
 ja-jp/blog/5-things-designers-need-to-know-for-a-smooth-handoff/$
 ja-jp/blog/6-skills-every-engineer-needs-for-the-ai-era/$
@@ -20552,12 +20536,15 @@ ja-jp/blog/bringing-figma-make-to-the-canvas/$
 ja-jp/blog/building-a-digital-first-future-for-every-student/$
 ja-jp/blog/building-figmas-code-layers/$
 ja-jp/blog/case-study/$
+ja-jp/blog/code-on-the-figma-canvas/$
 ja-jp/blog/collaboration/$
 ja-jp/blog/config-2023-recap/$
 ja-jp/blog/config-2024-branding/$
 ja-jp/blog/config-2024-recap/$
 ja-jp/blog/config-2025-recap/$
+ja-jp/blog/config-2026-recap/$
 ja-jp/blog/config/$
+ja-jp/blog/connecting-figma-and-weave/$
 ja-jp/blog/creating-coherence-how-spotifys-design-system-goes-beyond-platforms/$
 ja-jp/blog/david-hoang-on-how-ai-will-influence-creative-tools/$
 ja-jp/blog/design-context-everywhere-you-build/$
@@ -20584,6 +20571,7 @@ ja-jp/blog/figma-buzz/$
 ja-jp/blog/figma-design/$
 ja-jp/blog/figma-draw-scatter-brushes/$
 ja-jp/blog/figma-draw/$
+ja-jp/blog/figma-make-now-on-your-local-code/$
 ja-jp/blog/figma-make/$
 ja-jp/blog/figma-mcp/$
 ja-jp/blog/figma-on-figma-evolving-our-visual-language/$
@@ -20597,6 +20585,7 @@ ja-jp/blog/how-figma-helps-you-learn-figma/$
 ja-jp/blog/how-razorpay-sharpened-developer-workflows/$
 ja-jp/blog/how-teams-tap-into-the-power-of-design-with-figma-slides/$
 ja-jp/blog/how-to-build-ground-breaking-products-a-managers-guide/$
+ja-jp/blog/how-to-design-agentic-tools-for-work/$
 ja-jp/blog/how-to-get-the-most-out-of-teams/$
 ja-jp/blog/how-to-harness-skills-that-ai-cant-automate/$
 ja-jp/blog/how-to-streamline-your-design-system-workflow-in-figma/$
@@ -20613,12 +20602,14 @@ ja-jp/blog/introducing-figma-buzz/$
 ja-jp/blog/introducing-figma-draw/$
 ja-jp/blog/introducing-figma-make/$
 ja-jp/blog/introducing-figma-mcp-server/$
+ja-jp/blog/introducing-figma-motion/$
 ja-jp/blog/introducing-figma-sites/$
 ja-jp/blog/introducing-screenreader-and-accessibility-features/$
 ja-jp/blog/introducing-three-new-tools-for-precise-image-editing-in-figma/$
 ja-jp/blog/ipo-pricing/$
 ja-jp/blog/is-the-app-layer-where-ai-proves-its-value/$
 ja-jp/blog/its-time-we-expand-our-definition-of-design/$
+ja-jp/blog/karri-saarinens-10-rules-for-crafting-products-that-stand-out/$
 ja-jp/blog/leadership/$
 ja-jp/blog/maker-stories/$
 ja-jp/blog/making-space-for-a-handmade-web/$
@@ -20650,6 +20641,7 @@ ja-jp/blog/state-of-the-designer-2026/$
 ja-jp/blog/state-of-the-designer-report-23/$
 ja-jp/blog/strategy/$
 ja-jp/blog/stripe-sessions-linear-figma/$
+ja-jp/blog/the-anatomy-of-an-activation-figma-commons/$
 ja-jp/blog/the-figma-agent-is-here/$
 ja-jp/blog/the-future-of-design-systems-is-accessible/$
 ja-jp/blog/the-future-of-design-systems-is-automated/$
@@ -20680,6 +20672,7 @@ ja-jp/blog/why-roles-are-not-rules/$
 ja-jp/blog/why-you-should-care-about-design-context/$
 ja-jp/blog/working-well/$
 ja-jp/blog/writing/$
+ja-jp/blog/you-never-stop-cultivating-taste/$
 ja-jp/build-ship/$
 ja-jp/buzz/$
 ja-jp/c
@@ -20850,6 +20843,7 @@ ja-jp/reports/your-handbook-to-scaling/$
 ja-jp/resource-library/$
 ja-jp/resource-library/ai-app-builders/$
 ja-jp/resource-library/ai-coding-tools/$
+ja-jp/resource-library/ai-website-examples/$
 ja-jp/resource-library/alignment-charts-explained/$
 ja-jp/resource-library/best-fonts-for-logos/$
 ja-jp/resource-library/best-fonts-for-thumbnails/$
@@ -21255,7 +21249,6 @@ journals
 journals/*/about-this-journal
 journals/testfieldhumanities/
 jp
-jp$
 jp*/listing/*/favoriters
 jp*/people/*/circle
 jp*/people/*/favorites
@@ -21339,15 +21332,11 @@ jquery-libs/static-1.48
 jquery_1_11_0_min/version-13,minify-1.cms*
 jref
 js
-js/ajaxconn
 js/v2/web-sdk-main.js*
-js/widget.js
 js2
 js3
 js3/ta-mobile
 js3/vr-shared
-jsErrAjax
-jsGalleryWidget
 jsapi
 jsearch
 jsessionid*
@@ -21434,6 +21423,8 @@ ko-kr/blog/$
 ko-kr/blog/2025-shifting-roles-report/$
 ko-kr/blog/4-ways-for-design-teams-to-chart-new-territory-with-figma-make/$
 ko-kr/blog/8-ways-to-build-with-figma-make/$
+ko-kr/blog/andrew-boz-bosworths-10-rules-for-navigating-the-next-design-paradigm/$
+ko-kr/blog/bill-atkinsons-10-rules-for-making-interfaces-more-human/$
 ko-kr/blog/bringing-figma-make-to-the-canvas/$
 ko-kr/blog/building-figmas-code-layers/$
 ko-kr/blog/design-context-everywhere-you-build/$
@@ -21442,6 +21433,7 @@ ko-kr/blog/design-systems/$
 ko-kr/blog/engineering/$
 ko-kr/blog/everything/$
 ko-kr/blog/figma-make/$
+ko-kr/blog/how-to-design-agentic-tools-for-work/$
 ko-kr/blog/how-to-harness-skills-that-ai-cant-automate/$
 ko-kr/blog/increased-ipo-price-range/$
 ko-kr/blog/inside-figma/$
@@ -21450,10 +21442,12 @@ ko-kr/blog/introducing-screenreader-and-accessibility-features/$
 ko-kr/blog/introducing-three-new-tools-for-precise-image-editing-in-figma/$
 ko-kr/blog/ipo-pricing/$
 ko-kr/blog/is-the-app-layer-where-ai-proves-its-value/$
+ko-kr/blog/karri-saarinens-10-rules-for-crafting-products-that-stand-out/$
 ko-kr/blog/maker-stories/$
 ko-kr/blog/one-founders-mission-to-save-local-farms-with-figma-make/$
 ko-kr/blog/product-updates/$
 ko-kr/blog/slides-buzz-figma-app-in-chatgpt/$
+ko-kr/blog/the-anatomy-of-an-activation-figma-commons/$
 ko-kr/blog/turn-your-chatgpt-brainstorms-into-figjam-diagrams/$
 ko-kr/blog/why-you-should-care-about-design-context/$
 ko-kr/blog/working-well/$
@@ -21572,6 +21566,7 @@ ko-kr/reports/your-handbook-to-scaling/$
 ko-kr/resource-library/$
 ko-kr/resource-library/ai-app-builders/$
 ko-kr/resource-library/ai-coding-tools/$
+ko-kr/resource-library/ai-website-examples/$
 ko-kr/resource-library/alignment-charts-explained/$
 ko-kr/resource-library/best-fonts-for-logos/$
 ko-kr/resource-library/best-fonts-for-thumbnails/$
@@ -21880,7 +21875,6 @@ law-abiding-citizen
 layer2
 layout
 lb
-lead-form
 leaf
 learn
 learn-how-tenting-works-to-make-intercourse-easier-1571085038
@@ -21952,54 +21946,6 @@ leerberichten
 legal
 legal-b2b
 legal-contact-us
-legal-content/BG/TXT/DOC
-legal-content/BG/TXT/SIG
-legal-content/CS/TXT/DOC
-legal-content/CS/TXT/SIG
-legal-content/DA/TXT/DOC
-legal-content/DA/TXT/SIG
-legal-content/DE/TXT/DOC
-legal-content/DE/TXT/SIG
-legal-content/EL/TXT/DOC
-legal-content/EL/TXT/SIG
-legal-content/EN/TXT/DOC
-legal-content/EN/TXT/SIG
-legal-content/ES/TXT/DOC
-legal-content/ES/TXT/SIG
-legal-content/ET/TXT/DOC
-legal-content/ET/TXT/SIG
-legal-content/FI/TXT/DOC
-legal-content/FI/TXT/SIG
-legal-content/FR/TXT/DOC
-legal-content/FR/TXT/SIG
-legal-content/GA/TXT/DOC
-legal-content/GA/TXT/SIG
-legal-content/HR/TXT/DOC
-legal-content/HR/TXT/SIG
-legal-content/HU/TXT/DOC
-legal-content/HU/TXT/SIG
-legal-content/IT/TXT/DOC
-legal-content/IT/TXT/SIG
-legal-content/LT/TXT/DOC
-legal-content/LT/TXT/SIG
-legal-content/LV/TXT/DOC
-legal-content/LV/TXT/SIG
-legal-content/MT/TXT/DOC
-legal-content/MT/TXT/SIG
-legal-content/NL/TXT/DOC
-legal-content/NL/TXT/SIG
-legal-content/PL/TXT/DOC
-legal-content/PL/TXT/SIG
-legal-content/PT/TXT/DOC
-legal-content/PT/TXT/SIG
-legal-content/RO/TXT/DOC
-legal-content/RO/TXT/SIG
-legal-content/SK/TXT/DOC
-legal-content/SK/TXT/SIG
-legal-content/SL/TXT/DOC
-legal-content/SL/TXT/SIG
-legal-content/SV/TXT/DOC
-legal-content/SV/TXT/SIG
 legal-things-you-can-do-on-the-dark-web-1819790298
 legal/$
 legal/3874403/
@@ -22018,6 +21964,18 @@ legal/creator-agreement/$
 legal/creator-fund-terms/$
 legal/data-portability-and-deletion/$
 legal/developer-terms/$
+legal/digital-regulation-help-centre/$
+legal/digital-regulation-help-centre/appi/$
+legal/digital-regulation-help-centre/australia-privacy-act/$
+legal/digital-regulation-help-centre/australia-prudential-regulation/$
+legal/digital-regulation-help-centre/eu-data-act/$
+legal/digital-regulation-help-centre/eu-dora/$
+legal/digital-regulation-help-centre/eu-dsa/$
+legal/digital-regulation-help-centre/eu-gdpr/$
+legal/digital-regulation-help-centre/eu-nis-2/$
+legal/digital-regulation-help-centre/monetary-authority-singapore/$
+legal/digital-regulation-help-centre/pdpa-2012/$
+legal/digital-regulation-help-centre/uk-online-safety-act/$
 legal/digital-services-act/$
 legal/disclaimer/$
 legal/dpa/$
@@ -22276,7 +22234,6 @@ lt/
 lt/$
 lt/*
 lt/Download
-ltdn-optout
 lu/*
 lu/agb
 lu/agb-0718
@@ -22434,7 +22391,6 @@ malayalam/
 manage
 manage-listing
 manage/*
-manage/leads
 manage/videos
 manage_playlist
 managed
@@ -22524,7 +22480,6 @@ maps?sid=
 mapslt?
 mapspro
 mapview
-mar-optout
 marathi/
 marinate-all-of-your-pork-in-shio-koji-1831238644
 market
@@ -22826,7 +22781,6 @@ mod
 mod.php
 mod=
 mod?
-modal-message
 modal_active=
 models
 models/*/ar-redirect
@@ -23106,7 +23060,6 @@ my
 my-MM/$
 my-account
 my-agent/eligibility
-my-eurlex
 my-favorite-websites-for-the-best-travel-deals
 my-library
 my-library
@@ -23830,7 +23783,6 @@ npk
 npln
 npost/
 npr
-nqrwns
 ns/
 ns/local_news
 nuance-chat.html
@@ -23865,7 +23817,6 @@ nyt-connections-answer-today-september-23-2023-1850862961
 nyt-connections-answer-today-september-24-2023-1850864473
 nyt-connections-answer-today-september-27-2023-1850873401
 nz
-nz$
 nz*/listing/*/favoriters
 nz*/people/*/circle
 nz*/people/*/favorites
@@ -24021,7 +23972,6 @@ opt-in-mobile
 opt-out-info.jsp
 opt-out.jsp
 opt/widget-cache.php
-optInEmail
 optimize
 optimize-360
 optimus
@@ -24039,7 +23989,6 @@ orders/timeline
 organization-guest
 organization/$
 organizationInviteDeclined
-organizationMembers
 organizationinvited
 organizations
 orientacion-laboral
@@ -24491,7 +24440,6 @@ paid-content/news/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultim
 paid-content/news/why-tax-filers-are-choosing-h-r-block-this-season
 paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online
 paid-posts
-paid-transfers-buyer-survey
 pancake-bread-pretty-much-makes-itself-1850507100
 panel
 panelweb
@@ -24506,7 +24454,6 @@ parental-passcode
 parents/activity-finder
 parents/search
 paribus-the-app-that-automatically-refunds-price-drops-1773195386
-parking.php4
 parliament/public/traineeship/secured/
 parliament/public/transltraineeship/secured
 parsely-api-endpoint
@@ -24665,11 +24612,6 @@ ph
 ph/*
 ph/Download
 ph/en
-phbr
-phbr*_template_
-phbr0
-phbr1-
-phbr~r_
 phenom
 phone
 phone/compare/?
@@ -24683,12 +24625,10 @@ photogallery/*.xml$
 photos.php
 photos/*/download
 photos/*/lightbox
-photos/*a_86-
 photos/app_store_link
 photos/archivesact/6011019532/nearby
 photos/gbachelie
 photos/i_love_u_get_away_from_me
-photos/query
 photos/tags/*/page
 photos/youpy
 photosales/index.cfm?fuseaction=
@@ -24697,7 +24637,6 @@ php/docs/reference
 php/docs/reference/*/latest
 php/docs/reference/*/latest$
 php/docs/reference/help
-phvw-vp
 piano
 pickadate/static-1.6
 picture-gallery/sponsor-story
@@ -24982,7 +24921,7 @@ pl_pl/tworzyc
 place
 places
 plain-white-vinegar-is-the-dishwashing-hero-you-need-a-1825145938
-plan
+plan/selection
 plan=
 plans
 platform
@@ -25022,7 +24961,6 @@ plus/experience/*/series
 plus/experience/dreamforce_2025_x_test
 plus/r
 plusinstall
-pm-optout
 pm/
 pm/amplify/
 pm/lambda/
@@ -25145,9 +25083,6 @@ pr=
 pr_rd_page=
 praca
 practical-law-the-journal/search
-prbr
-prbr0
-prbr1
 pre-buy-your-intermission-drinks-at-the-theater-1827236651
 preferedui=
 preferedui=desktop
@@ -25157,11 +25092,10 @@ preferences/
 preferences/manage-cookies
 prefetch
 prefs
-prelex
 premium
 premium$
 premium/$
-premium/http://s.w.org/robots.txt
+premium/http://rtbf.be/robots.txt
 premiumsupport/iam/
 premiumsupport/knowledge-center/feedback-no/
 premiumsupport/knowledge-center/feedback-yes/
@@ -25222,7 +25156,6 @@ pricing/payment
 pricing/pro
 primeshow*
 print
-print-pdf
 printView=
 printable/pdf
 printer_friendly_story
@@ -25242,16 +25175,10 @@ privacy/archived-versions.html
 privacy/zoho-group.html
 private
 private-promo
-private/http://about.fb.com/robots.txt
+private/http://about.google/robots.txt
 private/wtrack
 pro
-pro-help/q
-pro-learn
-pro-learn/blog/*error
-pro-learn/s
-pro-meeting
 pro-resources
-pro-site
 pro-solutions
 pro/about
 pro/account-users
@@ -25273,14 +25200,7 @@ pro/subscriptions.json
 pro/trial
 pro/user-subscriptions
 pro/users
-pro2
 proFile/history?
-proMatch
-proProjects
-proVideoWidget
-probr
-probr*_template_
-probr0
 processFind*
 producers/webmanual
 product
@@ -25321,11 +25241,8 @@ products/container.html
 products/content
 products/einstein/ai-research.
 products/finder
-products/holiday-sales-*sgbr-sg
 products/home-perf
 products/orders
-products/query
-products/query/*nqrwns
 products/sitemaps/new
 products/telepresence-for-docker/thank-you
 products;
@@ -25336,10 +25253,6 @@ professional-certificates-noperf
 professional-certificates-perf
 professional-users
 professional/$
-professionals/*/s
-professionals/*/sortReviews
-professionals/query
-professionals/s
 profil
 profile
 profile/*/Advice
@@ -25456,7 +25369,6 @@ proplayer
 props/
 proredir?
 prospective-students/undergraduate-redesign
-protected
 protein/?term=
 proteinclusters/?term=
 protfam/?term=
@@ -25528,6 +25440,7 @@ pt-br/blog/2025-shifting-roles-report/$
 pt-br/blog/4-ways-for-design-teams-to-chart-new-territory-with-figma-make/$
 pt-br/blog/8-ways-to-build-with-figma-make/$
 pt-br/blog/andrew-boz-bosworths-10-rules-for-navigating-the-next-design-paradigm/$
+pt-br/blog/bill-atkinsons-10-rules-for-making-interfaces-more-human/$
 pt-br/blog/bringing-figma-make-to-the-canvas/$
 pt-br/blog/building-figmas-code-layers/$
 pt-br/blog/design-context-everywhere-you-build/$
@@ -25538,6 +25451,7 @@ pt-br/blog/engineering/$
 pt-br/blog/everything/$
 pt-br/blog/figma-make/$
 pt-br/blog/figma-weave/$
+pt-br/blog/how-to-design-agentic-tools-for-work/$
 pt-br/blog/how-to-harness-skills-that-ai-cant-automate/$
 pt-br/blog/in-good-company-retailers/$
 pt-br/blog/increased-ipo-price-range/$
@@ -25547,12 +25461,14 @@ pt-br/blog/introducing-screenreader-and-accessibility-features/$
 pt-br/blog/introducing-three-new-tools-for-precise-image-editing-in-figma/$
 pt-br/blog/ipo-pricing/$
 pt-br/blog/is-the-app-layer-where-ai-proves-its-value/$
+pt-br/blog/karri-saarinens-10-rules-for-crafting-products-that-stand-out/$
 pt-br/blog/maker-stories/$
 pt-br/blog/one-founders-mission-to-save-local-farms-with-figma-make/$
 pt-br/blog/product-updates/$
 pt-br/blog/prototypes-are-the-new-prds/$
 pt-br/blog/search
 pt-br/blog/slides-buzz-figma-app-in-chatgpt/$
+pt-br/blog/the-anatomy-of-an-activation-figma-commons/$
 pt-br/blog/topic
 pt-br/blog/turn-your-chatgpt-brainstorms-into-figjam-diagrams/$
 pt-br/blog/why-you-should-care-about-design-context/$
@@ -25899,6 +25815,7 @@ pt-br/resource-library/diferenca-entre-ui-e-ux/$
 pt-br/resource-library/exemplos-de-apresentacoes/$
 pt-br/resource-library/exemplos-de-folhetos/$
 pt-br/resource-library/exemplos-de-mapas-mentais/$
+pt-br/resource-library/exemplos-sites-de-ia/$
 pt-br/resource-library/exemplos-sites-portfolio/$
 pt-br/resource-library/facebook-size-guide/$
 pt-br/resource-library/ferramentas-programacao-ia/$
@@ -26212,7 +26129,6 @@ query
 query$
 query%
 query=
-query=
 query?
 query?*action=issuu.documents.list_anonymous$
 query?*action=issuu.documents.list_anonymous&
@@ -26416,6 +26332,8 @@ relation=
 release-notes/$
 releasenotes/item/
 relieve-bee-stings-with-a-bit-of-tobacco-5822619
+religious-landscape-study/*.md
+religious-landscape-study/*/markdown
 relive-your-childhood-games-with-this-free-cd-rom-archi-1850408876
 relive-your-glory-days-with-these-retro-tv-sites-1848662849
 relnotes
@@ -26431,7 +26349,6 @@ removalrequest
 remove-excess-salt-from-nuts-by-shaking-them-in-a-paper-1704198119
 remove-favorite
 renders
-renewal-reminder-optout
 rent/guide
 rental-manager/?source=topnav&itc=postbutton_topnav
 rental-manager/?zpid=
@@ -27167,9 +27084,7 @@ review/rate
 review/show
 review/top-reviewers
 reviewFilters
-reviewSeller
 reviewVote
-reviewWidget
 review_feed_auto_fetch
 reviewit
 reviews
@@ -27269,7 +27184,6 @@ rt=nc
 rta-logging/reader-history.php
 rtm
 ru
-ru$
 ru-RU/$
 ru-am
 ru-am/lp$
@@ -27454,9 +27368,7 @@ sap/saphana/pilot/offer/
 sap/saphana/pilot/offer/confirmation
 sars-cov-2
 save
-save-document
 save-old-scratched-cds-with-vaseline-5510888
-save-query
 save-the-fatty-bits-from-your-steak-and-make-lazy-tallo-1850492717
 save/save-agency-search-tool
 save/save-agency-search-tool/export
@@ -27518,8 +27430,6 @@ sch/sis.html
 schittscreek
 scholar
 scholar_share
-scholarship
-scholarships
 schools/TestHistoryAsync.htm
 schoolsearch
 science/MiamiMultiMediaURL
@@ -27595,7 +27505,6 @@ sdfe/pdf/download/read/noindex/pii
 sdfe/reader/pii
 sdk/js
 se
-se$
 se*/listing/*/favoriters
 se*/people/*/circle
 se*/people/*/favorites
@@ -27733,7 +27642,6 @@ search*start=
 search-ads-360
 search-ar-dev
 search-console/scfe
-search-effectiveness.html
 search-results
 search-results
 search-results.html
@@ -27948,7 +27856,6 @@ service-search/other-services/Psychological-therapy-(NHS-IAPT)/LocationSearch/39
 service-search/other-services/Psychologicaltherapies(IAPT)/LocationSearch/10008
 service/suche/index.html*query
 service=ajax
-serviceQuestionnaireAjax
 servicedesk/
 services
 services.min.js
@@ -27986,7 +27893,6 @@ sf11500465=
 sf_
 sfs/
 sg
-sg$
 sg-en*/listing/*/favoriters
 sg-en*/people/*/circle
 sg-en*/people/*/favorites
@@ -28056,9 +27962,9 @@ sg/node/add
 sg/search
 sg/user
 sg/user$
-sgbr-sg
 sgtm/g/collect
 sh
+sh/checkout
 sh/landing
 sh/onboarding
 sh/str/fvfsavings
@@ -28230,7 +28136,6 @@ site-search
 site.webmanifest
 site/search
 siteBackHtml
-siteSwitch
 site_map
 sitecore
 sitecounterajax
@@ -28334,14 +28239,7 @@ sites/default/files/*.swf
 sites/default/files/archive/
 sites/default/files/commandcenter/commandcenter-as-a-service-helpdoc.pdf
 sites/default/files/creator/archive/
-sites/default/files/crm/cohort-analysis.pdf
 sites/default/files/crm/command-center.pdf
-sites/default/files/crm/marketing-attribution.pdf
-sites/default/files/crm/quadrant-analysis.pdf
-sites/default/files/crm/webform-analytics.pdf
-sites/default/files/crm/workflow-suggestions-by-zia.pdf
-sites/default/files/crm/working-with-calls.pdf
-sites/default/files/crm/zcrm-canvas-earlyaccess-faqs.pdf
 sites/default/files/desk/zoho-plan-comparison-eur.pdf
 sites/default/files/desk/zoho-plan-comparison-gbp.pdf
 sites/default/files/desk/zoho-plan-comparison-inr.pdf
@@ -28552,7 +28450,6 @@ sites/zweb/images/crm/signup_onboarding_loader.mp4
 sites/zweb/images/crm/the-forrester-case-for-democratizing-crm.pdf
 sites/zweb/images/crmplus/images/zohocrmplus-feature-list.pdf
 sites/zweb/images/jp/crmplus/zohocrmplus-feature-list.pdf
-sites/zweb/images/jp/partners/partner-policy.pdf
 sites/zweb/images/workplace/pdf/affiliate-marketing-guide.pdf
 sites/zweb/images/workplace/pdf/saas-affiliate-marketing.pdf
 sites/zweb/images/zoho_general_pages/branding/dont-1.png
@@ -28586,7 +28483,6 @@ sk/firefox/search
 sk/sk/pwc-prava.html
 sk/sk/pwclegal/ludia.html
 skazki
-sketches
 sl-SI/$
 sl-si/
 sl/
@@ -28618,7 +28514,6 @@ slp/*/b$
 slp/s$
 smart/button
 smart/buttons
-smartapi
 smartmarket
 smartmarket/*/productListInitial.action?
 smbe/
@@ -28961,7 +28856,6 @@ specials
 specific
 speed
 speed-test-parent
-spf=
 spi
 spice
 spk
@@ -29577,7 +29471,6 @@ svg/vstatic/svg
 svgimageproc
 svpRecommendations
 sw
-sw$
 sw-TZ/$
 sw-shell.html
 swa/api
@@ -29621,7 +29514,7 @@ tag
 tag-manager
 tag-manager-360
 tag/
-tag/*+http://dinotim.com/robots.txt
+tag/*+http://digital-strategy.ec.europa.eu/robots.txt
 tag/*/page
 tag/credible
 tag/interaction-card
@@ -29699,7 +29592,6 @@ teachers/innovators/toolkit
 teachers/search/resources/?q=
 tealeaf
 tealium
-team/join
 teamplain/
 teams
 tech
@@ -30834,7 +30726,6 @@ templates/x-matrix-template/$
 templates/yearly-calendar-template/$
 temporary_marketing_proxy/*
 temptation-island
-ter-optout
 termini-e-condizioni
 termos-e-condicoes
 terms
@@ -30867,7 +30758,7 @@ test/diagnostic-tool
 test_community
 testfl
 testgpr
-testhttp://mp.weixin.qq.com/robots.txt
+testhttp://moskva.stroi-podryad.ru/robots.txt
 testing
 testpage-forhomepage
 tests
@@ -31451,7 +31342,6 @@ tr?
 tr_tr
 tr_tr/sablonlar/M
 trabajo
-trabajo/title
 trace
 traces
 track
@@ -31481,7 +31371,6 @@ transcripts/419570939
 transcripts/470280334
 transcripts/480128005
 transcripts/830237502
-transfers
 transform-an-ikea-chair-frame-into-a-portable-computer-5900963
 transform-cake-mixes-by-folding-in-whipped-cream-1832363058
 transform-your-amazon-echo-into-a-white-noise-machine-w-1831133690
@@ -31587,7 +31476,6 @@ trivia/answer
 trk
 trk-download
 trouver
-true/select-store-cookies.html
 trust.php
 trustedstores/images
 trustedstores/js
@@ -31695,7 +31583,6 @@ ui-images/static-2.106
 ui-images/static-2.116
 ui-images/static-2.193
 ui-images/static-2.92
-uiLoggerAjax
 uibreakfast
 uie/clk
 uk
@@ -31810,7 +31697,6 @@ unifiedsearch
 universal-design-system/
 university
 unlink
-unlisted
 unlock-hidden-video-and-image-tools-with-this-url-hack-1548725145
 unsaved
 unsub
@@ -32440,7 +32326,6 @@ view-3d-home
 view-floor-plan
 view-imx
 view-skytour
-viewReview
 viewconfig$
 viewer
 viewjob
@@ -32461,7 +32346,6 @@ viruswarning.aspx
 visajobb?
 visual-gps/insights/results
 visual-notes
-visual-tools
 visualize-your-wall-painted-a-different-color-with-thes-1833360173
 visualj/
 visuals/services
@@ -32509,8 +32393,6 @@ wall*?thread=
 wall*?with=
 wall-*?q=
 wallet
-wallpaper
-wallpapers
 want-to-contribute-to-lifehacker-1174273961
 wanted
 wap/*
@@ -32626,6 +32508,7 @@ webinars/typeform-video/$
 webinars/typeform/$
 webinars/using-your-code-on-figma-make/$
 webinars/winning-together-with-razorpay/$
+webinars/workflow-lab-figma-ai-agent/$
 webintent
 webmaster
 webmd_static_vue/
@@ -33147,7 +33030,7 @@ wiki/Wikipedia%3AVandalismi_in_corso
 wiki/Wikipedia%3AVandalismusmeldung
 wiki/Wikipedia%3AVandalismusmeldung%2F
 wiki/Wikipedia%3AVermittlungsausschuss
-wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://deezer.com/robots.txt
+wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://deepl.com/robots.txt
 wiki/Wikipedia%3AVotes_for_deletion
 wiki/Wikipedia%3AWikiProject_Deletion_sorting
 wiki/Wikipedia%3AWikiProject_Spam
@@ -33345,7 +33228,7 @@ wiki/Wikipedia_talk%3AAbuse_reports
 wiki/Wikipedia_talk%3AAbuse_response
 wiki/Wikipedia_talk%3AAdministrator_electionshttp://en.wikipedia.org/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_electionshttp://engadget.com/robots.txt
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://win.gs/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://wikihow.com/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_recall
 wiki/Wikipedia_talk%3AAdministrator_review
 wiki/Wikipedia_talk%3AAdministrators%27_noticeboard
@@ -33541,8 +33424,6 @@ wnet/religionandethics/search_results.html
 woa
 wondermissive/interest
 word-of-the-day/manage-subscription
-wordpress/wp-admin
-wordpress/wp-admin/admin-ajax.php
 wordpress/wp-content
 work
 work
@@ -33646,6 +33527,7 @@ wp-admin
 wp-admin/
 wp-admin/admin-ajax.php
 wp-admin/admin-ajax.php
+wp-admin/admin-ajax.phphttp://rumble.com/robots.txt
 wp-admin/admin-ajax.phphttp://stackoverflow.com/robots.txt
 wp-admin/load-scripts.php
 wp-admin/load-styles.php
@@ -33667,6 +33549,7 @@ wp-content/plugins/abm-sej/includes/infinte-scroll/js/infs.js
 wp-content/plugins/abm-sej/includes/infinte-scroll/js/observer-lazy-load-a.js
 wp-content/plugins/abm-sej/includes/infinte-scroll/js/prebid/prebid10.9.0.js
 wp-content/plugins/liveblog
+wp-content/plugins/prc-icon-library
 wp-content/plugins/wp-bigmarker/asset/public/js/hs.js
 wp-content/plugins/ws-form-pro/public/js/ws-form-public-geo.min.js
 wp-content/plugins/ws-form-pro/public/js/ws-form-public-tracking.min.js
@@ -33710,9 +33593,6 @@ wpost/proxy
 wrap_up
 write-
 write-review
-writeReview/cmd=
-writeReview2/cmd=
-writeReview2/ew
 writeareview
 writers/writing-tips/
 writing
@@ -34176,7 +34056,6 @@ zz-test
 1*?
 1-200-calories-a-day-is-a-starvation-diet-actually-1847936016
 1_fs
-1e1f46a0d5264b5c
 2
 2*?
 2-fast-2-furious
@@ -34350,5 +34229,6 @@ zz-test
 1347171559
 67454337265/checkouts
 67454337265/orders
+69865325090a83cb
 71466320146
 63463511625958
