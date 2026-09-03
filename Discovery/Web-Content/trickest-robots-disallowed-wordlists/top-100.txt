@@ -460,6 +460,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /download/thankyou.aspx?
 /download?
 /edit$
+/embed
 /events/atom
 /events/rss
 /events/xml
@@ -724,6 +725,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?*outputType=accessibility
 ?*outputType=comment
 ?*outputType=tracking
+?*p=
 ?*partner=
 ?*payRequest=
 ?*query=
@@ -792,6 +794,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?data=
 ?dateRange=
 ?delete_id=
+?display=wide
 ?distance=
 ?dnt=
 ?edit_id=
@@ -874,6 +877,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?orderid
 ?output=
 ?outro=
+?p=
 ?pageToken=
 ?pager.offset=
 ?per_page=
@@ -925,6 +929,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?sizes=
 ?sl_key=
 ?slogin
+?sort-by=*
 ?sort=
 ?sortBy=
 ?sortField=
@@ -1188,7 +1193,9 @@ ad_id=
 add_favorite
 addboard
 admin
+admin$
 admin/
+admin?
 ads
 ads.txt
 ads/gpa/vidgen
@@ -1209,6 +1216,7 @@ ai-sandbox-internal/generated_images
 aihub/tfhub
 aistudio-static
 aistudio/*favicon*.png$
+aitestkitchen/website/flow/applets
 ajax
 ajax/bootloader-endpoint
 ajax/follow_info
@@ -1378,6 +1386,7 @@ blog/*?event-format=
 blog/*?event-type=
 blog/*?s=
 blog/*?segment=
+blog/feed
 blog/following
 blog/search
 blog/wp-admin
@@ -1469,6 +1478,9 @@ cbre/built-for-performance
 cdd/?term=
 cdn-cgi
 celebritycruises/guide-to-the-globe
+cgc/*.ico
+cgc/*.png
+cgc/*.svg
 cgi-bin
 cgibin
 channel_picker
@@ -2120,10 +2132,10 @@ hp/video
 hpc/*/supported-applications.aspx?
 hpm
 hpmob
-http://ajax.googleapis.com/robots.txt
-http://amazon.de/robots.txt
-http://apps.apple.com/robots.txt
-http://sites.google.com/robots.txt
+http://blog.google/robots.txt
+http://de.wikipedia.org/robots.txt
+http://microsoft.com/robots.txt
+http://web.archive.org/robots.txt
 hub?category=
 hz/contact-us/ajax/initiate-trusted-contact
 hz/help/contact/*/message/$
@@ -2465,6 +2477,7 @@ newsround
 newssearch
 newsstand
 nlmcatalog/?term=
+noItems=
 node/add/
 nonprofits/account
 notifications
@@ -2504,6 +2517,7 @@ page-2158488_44596199$
 page-2158488_50129817$
 page-59800369_45472411$
 page-777107_28406709$
+page/*/?s=
 pages?oid=-
 pagespeed/insights/ui/logo
 panel
@@ -2700,6 +2714,7 @@ rating
 rd/search
 rd/search$
 rd/search?
+readme.html
 recently-viewed
 recipes/*?q=
 recipes/search
@@ -2856,7 +2871,6 @@ shopping/suppliers/search
 shopping?
 shopping?udm=28$
 shopstream
-showcase/*/auth
 signin
 signin-oidc
 signin/inject
@@ -3722,7 +3736,7 @@ wiki/Wikipedia%3AVandalismi_in_corso
 wiki/Wikipedia%3AVandalismusmeldung
 wiki/Wikipedia%3AVandalismusmeldung%2F
 wiki/Wikipedia%3AVermittlungsausschuss
-wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://creativecommons.org/robots.txt
+wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://s3.amazonaws.com/robots.txt
 wiki/Wikipedia%3AVotes_for_deletion
 wiki/Wikipedia%3AWikiProject_Deletion_sorting
 wiki/Wikipedia%3AWikiProject_Spam
@@ -3891,7 +3905,7 @@ wiki/Wikipedia_Diskussion:Checkuser%2F
 wiki/Wikipedia_Diskussion:Spam-Blacklist-Log
 wiki/Wikipedia_talk%3AAbuse_reports
 wiki/Wikipedia_talk%3AAbuse_response
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://ec.europa.eu/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://google.com/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_recall
 wiki/Wikipedia_talk%3AAdministrator_review
 wiki/Wikipedia_talk%3AAdministrators%27_noticeboard
@@ -4081,9 +4095,12 @@ wp-admin
 wp-admin/admin-ajax.php
 wp-admin/load-scripts.php
 wp-admin/load-styles.php
+wp-admin/post.php
 wp-adv
 wp-apps/imrs.php
+wp-content/uploads
 wp-dyn
+wp-login.php
 wp-srv
 wp-stat/ad
 wp-stat/vrroom
@@ -4100,6 +4117,7 @@ xhtml/?
 xhtml/search?
 xhtml?
 xml?
+xmlrpc.php
 xoplatform/logger/api/logger
 xorouter
 you
